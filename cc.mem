@@ -1,0 +1,14 @@
+Questo programma calcola le Kcal di un pasto, basandosi sui grammi degli
+alimenti immessi dall'utente, consultando il database: ALIMENTI.CSV
+Permette la ricerca rapida per corrispondenza iniziale, p.es.
+immettendo PAN si trover…: Pane, Panettone, Panino, Panna, ecc.
+Possono essere selezionati fino a 100 alimenti per pasto. Il riepilogo Š
+calcolato dopo un invio vuoto e scritto anche in un file di testo avente
+nome tipo CCAAMMGG.MIN (l'estensione Š calcolata sui minuti del TIMER).
+ALIMENTI.CSV Š strutturato nella forma: "Descrizione alimento",Kcal
+con descrizione racchiusa tra virgolette e lunga a piacere, visualizzata
+adattandola allo schermo, e Calorie espresse per 100 grammi fra 0ö999
+(il programma forza a zero eventuali valori aggiunti fuori range);
+per aggiungere alimenti, usare un editor di testo o il prompt, p.es.
+
+echo "Torta di mele, Nonna Papera",231 >>alimenti.csv
