@@ -64,4 +64,5 @@ Il file CSV deve avere la seguente struttura: `"Descrizione Alimento",KcalPer100
 
 ```bash
 echo "Torta di mele di Nonna Papera, manuale delle Giovani Marmotte",231 >> alimenti.csv
+
 È necessario che il file alimenti.csv sia presente nella stessa directory dell'eseguibile. Se alimenti.csv non viene trovato, il programma termina immediatamente, restituendo il controllo al DOS, anziché creare un file vuoto e confondere l'utente.
