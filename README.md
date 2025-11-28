@@ -1,8 +1,11 @@
 # Calcolo Calorico (CC.BAS) - L'utility dietetica per DOS
 
 **Autore:** Marco da Venezia (marco67ve)
+
 **Periodo di Sviluppo:** Anni '80
+
 **Linguaggio:** Microsoft QuickBASIC
+
 **Piattaforma Target:** MS-DOS, PC con CGA/VGA, o Windows NT/XP in console a 16 bit.
 
 ---
