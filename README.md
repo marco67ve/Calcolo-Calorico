@@ -34,7 +34,7 @@ Il codice è basato sul concetto di **Array Paralleli** e **Uso Ottimale della M
 
 | Componente | Descrizione | Nota Tecnica |
 | :--- | :--- | :--- |
-| **Ricerca** | Permette la ricerca rapida per **corrispondenza iniziale** (es. cercando "BURR" si trova "Burro..."). | Utilizzo di `LEFT$(UCASE$(Nomi$(i)), LEN(cercato$))` per una ricerca efficiente e case-insensitive. |
+| **Ricerca** | Permette la ricerca rapida per **corrispondenza** (es. cercando "BURR" si trova "Burro..."). | Utilizzo di `INSTR(UCASE$(Nomi$(i)), cercato$)` per una ricerca efficiente e case-insensitive. |
 | **Pasto** | Gli alimenti scelti sono memorizzati nell'array di tipo **`TYPE RecordScelto`** (Indice DB + Grammi). | Limite massimo di **100 alimenti** per pasto. |
 | **Calcolo** | Il totale calorico finale viene calcolato e memorizzato in una variabile **`Long Integer` (`&`)** (`GrandTotal&`) per prevenire l'overflow (la saturazione a 32767 Kcal), garantendo l'accuratezza anche per pasti ad altissimo contenuto calorico. | Formula: `KcalCalcolate& = (gr / 100) * kcal100`. |
 | **Report** | Generazione di un file di testo (es. `CCYYMMDD.EXT`) contenente il riepilogo del pasto e il totale. | L'estensione (`.EXT`) è calcolata sui minuti del `TIMER` per garantire un nome file unico. |
