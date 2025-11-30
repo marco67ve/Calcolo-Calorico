@@ -95,7 +95,7 @@ aa$ = RIGHT$(DATE$, 2)
 ex$ = MID$(STR$(TIMER \ 60), 2, 3)' estensione in minuti
 File$ = "CC" + aa$ + mm$ + gg$ + "." + ex$
 OPEN File$ FOR OUTPUT AS #1
-PRINT #1, "Pasto del "; gg$; "/"; mm$; "/"; aa$; USING "##:##"; VAL(ex$) \ 60; VAL(ex$) MOD 60
+PRINT #1, "Pasto del "; gg$; "/"; mm$; "/"; aa$; USING " [##:##]"; VAL(ex$) \ 60; VAL(ex$) MOD 60
 PRINT #1, "ALIMENTO"; TAB(70); "GRAMMI  Cal"
 
 GrandTotal& = 0
@@ -208,7 +208,7 @@ SUB Promemoria
 	OPEN "cc.mem" FOR APPEND AS #1: CLOSE
 	OPEN "cc.mem" FOR INPUT AS #1
 	IF LOF(1) THEN
-		Cornice 7, 22, 4, 76, 0, 3, " Istruzioni rapide "
+		Cornice 7, 22, 4, 76, 0, 7, " Istruzioni rapide "
 		WHILE NOT EOF(1)
 			LINE INPUT #1, a$
 			LOCATE , 5: PRINT a$
@@ -224,5 +224,4 @@ SUB Uscita
 	CLS
 	END
 END SUB
-
 
