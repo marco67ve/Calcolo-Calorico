@@ -48,7 +48,7 @@ DO
 	ClsPag
 	PrintRiga 3, 7, 1, 11, 1, cercato$ + "... "
 	FOR i = 1 TO MaxAlimenti
-		IF LEFT$(UCASE$(Nomi$(i)), LEN(cercato$)) = cercato$ THEN
+		IF INSTR(UCASE$(Nomi$(i)), cercato$) THEN
 			IF CSRLIN > 23 THEN
 				PrintRiga 24, 2, 1, 14, 1, "Premi ENTER per continuare o ESC per immettere ID alimento "
 				k$ = INPUT$(1)
@@ -68,7 +68,7 @@ DO
 	ELSE
 		id1$ = LTRIM$(STR$(primo))
 		id2$ = LTRIM$(STR$(ultimo))
-		PrintRiga 24, 2, 1, 14, 1, "Immetti l'ID (" + id1$ + "ö" + id2$ + ") o nulla per saltare: "
+		PrintRiga 24, 2, 1, 14, 1, "Immetti l'ID (" + id1$ + "Ã¶" + id2$ + ") o nulla per saltare: "
 		EditLine scelta$, LEN(STR$(ultimo)) - 1, 48, 57
 		scelta = VAL(scelta$)
 		IF scelta >= primo AND scelta <= ultimo THEN
@@ -224,4 +224,5 @@ SUB Uscita
 	CLS
 	END
 END SUB
+
 
