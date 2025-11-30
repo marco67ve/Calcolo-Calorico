@@ -1,1078 +1,689 @@
-"Acciuga sott'olio, sgocciolata",182
-"Aceto",22
-"Aceto balsamico",128
-"Acqua potabile",0
-"Acquavite 40% vol (Vodka, Gin)",222
-"Acquavite di canna da zucchero (p.e. Rum)",222
-"Acquavite di cereali, 40% vol (p.e. Whisky)",234
-"Acquavite di ciliegie (Kirsch)",233
-"Acquavite di vino (p.e. Cognac, brandy)",228
-"Affettato (media)",276
-"Agar Agar",160
-"Aglio, crudo",137
-"Agnello (media, senza interiora e cotoletta), cruda",134
-"Agnello, carrÇ, crudo",156
-"Agnello, cosciotto arrosto (senza grassi)",203
-"Agnello, cosciotto, crudo",155
-"Agnello, costoletta, cruda",179
-"Agnello, filetto, cotto in padella (cottura media, no grassi)",136
-"Agnello, filetto, crudo",112
-"Agnello, lombata, cruda",117
-"Agnello, spezzatino, crudo (Svizzera)",154
-"Agrumi (media), crudi",42
-"Albicocca, cruda",48
-"Albicocche, cotte, sgocciolate (senza zucchero)",49
-"Albicocche, non zuccherate, conserva",48
-"Albicocche, secche",293
-"Albicocche, zuccherate, conserva",83
-"Albume d'uovo, crudo",44
-"Alghe, Nori, secche",255
-"Amaranto, seme, cotto (senza grassi)",119
-"Amaranto, seme, crudo",376
-"Amaretti (biscotti alle mandorle)",464
-"Amaretto alle nocciole",544
-"Amido di frumento",348
-"Anacardi",593
-"Ananas, crudo",52
-"Ananas, non zuccherato, conserva",51
-"Ananas, zuccherato, conserva",86
-"Anguria, cruda",31
-"Arachidi",623
-"Arachidi, tostate, salate",631
-"Arancia, cruda",44
-"Asparago, al vapore",26
-"Asparago, crudo",27
-"Avocado, crudo",144
-"Bacca di sambuco nero, cruda",52
-"Bacche (media), cotte (senza zucchero)",37
-"Bacche (media), crude",42
-"Bami Goreng, preparato",130
-"Banana, cruda",95
-"Banana, secca",273
-"Barbabietola, al vapore",54
-"Barbabietola, cruda",46
-"Barretta ai cereali, con copertura cioccolato",459
-"Barretta ai cereali, senza copertura o ripieno",415
-"Basilico, fresco",46
-"Bastoncini alle nocciole",567
-"Bastoncini di pasta sfoglia",496
-"Bastoncino di pesce impanato, al forno (senza grassi)",248
-"Bastoncino di pesce impanato, in olio di colza HOLL",300
-"Bastoncino di pesce, impanato e prefritto",230
-"Berner HobelkÑse (formaggio rotoli)",491
-"Bevanda Malto & Cacao, polvere (media comm.)",382
-"Bevanda al malto e cacao, preparata (con latte)",84
-"Bevanda al riso, al naturale",52
-"Bevanda alla soia, naturale",40
-"Bevanda gassata a base di cola edulcorata",0
-"Bevanda gassata a base di cola zuccherata",40
-"Biber",355
-"Bietola da coste, cruda",23
-"Bietola, al vapore",29
-"BirchermÅesli, preparato (non zuccherato)",87
-"Birra ai cinque cereali",40
-"Birra panachÇ (media)",39
-"Birra, analcolica",23
-"Birra, lager",42
-"Biscotti al cocco",567
-"Biscotti alle nocciole",473
-"Biscotti prussiani",438
-"Biscotti savoiardi",413
-"Blanc battu alla frutta, con edulcoranti",68
-"Blanc battu, naturale, magro",47
-"Bombolone farcito",336
-"Bresaola",167
-"Broccoli, al vapore",28
-"Broccoli, crudi",31
-"Brodo di carne preparato",5
-"Brodo di pollo preparato",5
-"Brodo di verdura, preparato",6
-"Brunsli di Basilea",515
-"Buccia d'arancia candita",306
-"Budino, al caramello",125
-"Budino, al cioccolato",121
-"Budino, alla vaniglia",102
-"BÅrli di San Gallo (farina semi-bianca)",231
-"Burro da cucina",745
-"Burro del caseificio",747
-"Burro di arachidi",636
-"Burro di cacao",900
-"Burro per arrostire",885
-"Burro semigrasso",391
-"Burro speciale",746
-"Cacao in polvere",419
-"Cachi, crudo",71
-"Caffä lungo, con cremino (non zuccherato)",13
-"Caffä solubile, in polvere",253
-"Caffä, nero (non zuccherato)",2
-"Caffelatte (scuro), non zuccherato",16
-"Caffelatte, chiaro (non zuccherato)",22
-"Caffelatte, non zuccherato",19
-"Cake alla finanziera",440
-"Cake alla tirolese",412
-"Cake marmorizzato",356
-"Calamaro, crudo",83
-"Calimocho (Vino rosso con cola)",55
-"Cannella",317
-"Cannelloni con carne, preparati",177
-"Cannelloni con ricotta e spinaci, preparati",220
-"Cappuccino (senza polvere di cioccolato), non zuccherato",37
-"Capra (media), cruda",149
-"Capriolo (media), crudo",122
-"Capriolo, spezzatino, crudo",105
-"Capuns, preparati",164
-"Caramella alla panna",351
-"Caramella dura",385
-"Caramella gommosa all'aroma di frutta",341
-"Caramella morbida",448
-"Carciofo, cuore, in scatola, sgocciolato",27
-"Carne (media, senza interiora), cruda",146
-"Carne Maiale (media senza interiora/cotoletta), cruda",160
-"Carne Manzo (media senza interiora/costine), cruda",134
-"Carne di pollame con pelle (media), cruda",161
-"Carne di pollame cruda (media, senza interiora)",134
-"Carne di pollame senza pelle (media), cruda",114
-"Carne di vitello (media, senza interiora e cotoletta), cruda",128
-"Carne salmistrata cruda (media)",274
-"Carne salmistrata da cuocere (media)",223
-"Carne secca (dei Grigioni, del Ticino o del Vallese)",190
-"Carne secca appenzellese, cruda",150
-"Carne tritata (media: manzo, vitello, maiale e pollo), cruda",143
-"Carne tritata (media), cotta in padella (senza grassi)",164
-"Carota, al vapore",40
-"Carota, cruda",38
-"Castagne, crude",210
-"Cavallo, filetto, cotto in padella (senza grassi)",129
-"Cavallo, filetto, crudo",102
-"Cavolfiore, al vapore",26
-"Cavolfiore, crudo",26
-"Cavoli (media), cotti (senza grassi)",28
-"Cavoli (media), crudi",29
-"Cavolini di Bruxelles, al vapore",39
-"Cavolino di Bruxelles, crudo",43
-"Cavolo bianco, al vapore (senza grassi)",28
-"Cavolo bianco, crudo",30
-"Cavolo bianco, stufato",30
-"Cavolo cinese, crudo",16
-"Cavolo cinese, stufato (senza grassi)",15
-"Cavolo piuma, crudo",44
-"Cavolo piuma, stufato (senza grassi)",47
-"Cavolo rapa, al vapore",28
-"Cavolo rapa, crudo",27
-"Cavolo rosso, crudo",30
-"Cavolo rosso, stufato",26
-"Ceci, cotti (senza grassi)",127
-"Ceci, secchi",327
-"Cedro candito",289
-"Cervelat",249
-"Cervo (media), crudo",112
-"Cervo, entrecìte, crudo",111
-"Cetriolini, sott'aceto",14
-"Cetriolo, crudo",14
-"Champignon, crudo",25
-"Champignon, stufato (senza grassi)",29
-"Cheeseburger",281
-"Chiacchiere di carnevale",553
-"Chili con carne, preparato",115
-"Chips di banana secca",370
-"Chips di mais",509
-"Ciambellone al cioccolato",380
-"Ciambellone della nonna",462
-"Cicoria belga, al vapore",13
-"Cicoria bianca di Milano, cruda",16
-"Cicoria rossa, cruda",19
-"Ciliegie, cotte, sgocciolate (senza zuccheri)",70
-"Ciliegie, crude",74
-"Cinghiale (media), crudo",108
-"Cioccolato al latte",537
-"Cioccolato al latte con nocciole",570
-"Cioccolato al latte con nougat/torrone mandorle e miele",536
-"Cioccolato al latte con uva secca, nocciole e mandorle",513
-"Cioccolato al latte ripieno di alcool",488
-"Cioccolato al latte ripieno di crema (Gianduja, Nougat)",573
-"Cioccolato al latte ripieno di crema alle nocciole",558
-"Cioccolato in polvere",398
-"Cioccolato, bianco",567
-"Cioccolato, nero (amaro)",537
-"Cipolla, arrostita (senza grassi)",92
-"Cipolla, cruda",39
-"Cipolla, stufata (senza grassi)",43
-"Cipolline, sott'aceto",28
-"Cocktail di gamberi, preparato",168
-"Composta di rabarbaro, con zucchero",81
-"Concentrato di pomodoro",77
-"Coniglio (media), crudo",150
-"Coniglio (media), cotto (senza grassi)",205
-"Coniglio, filetto, crudo",111
-"Coppa",319
-"Cordon bleu di maiale, preparato",241
-"Cordon bleu di vitello, preparato",234
-"Coregone lavarello, crudo",101
-"Cornetti (media)",400
-"Cornetto al burro, bianco",432
-"Cornetto al burro, integrale",368
-"Cornetto al prosciutto",332
-"Cornetto alle nocciole, pasta lievitata",318
-"Cornetto alle nocciole, pasta sfoglia",419
-"Cornetto di Sils (con sale iodato)",423
-"Cornflakes",363
-"Costoletta (media: vitello, maiale, agnello), cruda",177
-"Costoletta (media), in padella (senza grassi)",223
-"Cotechino",450
-"Cotto",93
-"Cozze, crude",85
-"Cracker, salatini, salatini da aperitivo",449
-"Crauti, sottaceto",19
-"Crema alla vaniglia, fatta in casa, cotta",109
-"Crema da spalmare alle nocciole e cioccolato",548
-"Crema, al cioccolato",122
-"Cràpes ai funghi prataiolo, preparati",139
-"Cràpes al formaggio Camembert, preparati",247
-"Cràpes al lardo, preparati",253
-"Cràpes al naturale, preparati",234
-"Cràpes al prosciutto, preparati",193
-"Cràpes al zucchero con cannella, preparati",254
-"Cràpes alla Nutella, preparati",377
-"Cràpes alla verdura, preparati",165
-"Crescione, crudo",17
-"Creste di gallo all'anice",366
-"Croque Monsieur",294
-"Crostaceo (media), crudo",75
-"Crostone al formaggio, preparato",272
-"Crusca d'avena",371
-"Crusca di frumento",264
-"Datteri, secchi",305
-"Discoletto (Frollini alla marmellata)",499
-"Dolcetti (Maddalena)",346
-"Doppia panna, pastorizzata",468
-"Dulce de Leche",299
-"Energy drink, con zucchero",44
-"Erba cipollina, fresca",30
-"Espresso, con cremino (non zuccherato)",28
-"Fagioli di soia, secchi",399
-"Fagiolini verdi secchi, messi a bagno, cotti al vapore",63
-"Fagiolini verdi, al vapore (senza sale)",32
-"Fagiolini verdi, secchi",252
-"Fagiolino verde, crudo",31
-"Fagiolo comune (tutti tipi), seme mature, secco",305
-"Fagiolo comune (tutti tipi), seme mature, cotto (senza grassi)",111
-"Fagiolo di soia, cotto (senza grassi)",157
-"Falafel, fritto (in olio di colza HOLL)",222
-"Farina (media)",343
-"Farina bianca (media)",344
-"Farina di frumento (bianca) tipo 400",346
-"Farina di frumento (bianca) tipo 550",344
-"Farina di frumento (bigia) tipo 1100",339
-"Farina di frumento (integrale) tipo 1700",338
-"Farina di frumento (semibianca) tipo 720",340
-"Farina di grano saraceno",348
-"Farina di segale tipo 1050",336
-"Farina di segale tipo 815",334
-"Farina di segale, integrale, cruschello tipo 1800",337
-"Farina di soia integrale (intera)",398
-"Farina di soia, sgrassata",296
-"Farina di spelta bianca tipo 550",348
-"Farina di spelta integrale tipo 1900",346
-"Farina di spelta tipo 1100",348
-"Farina per knîpfli",351
-"Fecola di mais",354
-"Fecola di patate",336
-"Fegato (media: vitello, manzo, maiale), crudo",134
-"Fegato (media), cotto in padella (senza grassi)",157
-"Fetta di semolino, preparato (con latte intero)",152
-"Fetta di semolino, preparato (con latte parz. scremato)",143
-"Fette di melanzana, impanate, preparate",138
-"Fette di sedano rapa, impanate, preparate",136
-"Fette di zucca, impanate, preparate",139
-"Fette di zucchina, impanate, preparate",127
-"Fettina (media: vitello, manzo, maiale, pollo), cruda",113
-"Fettina (media), cotta in padella (senza grassi)",145
-"Fettina (media), impanata e preparata",233
-"Fichi, secchi",273
-"Fico, crudo",74
-"Finocchio, al vapore",22
-"Finocchio, crudo",23
-"Fiocchi di avena",381
-"Fiocchi di cereali (media)",348
-"Fiocchi di frumento, integrali",335
-"Fiocchi di miglio, integrali",360
-"Fiocchi di orzo",333
-"Fiocchi di patate (purea istantanea)",365
-"Flammkuchen, cotto nel forno",254
-"FleischkÑse (pasticcio di carne)",256
-"Fondue classico, preparato",315
-"Fondue moitiÇ-moitiÇ, preparato",291
-"Fondue senza alcool, preparato",283
-"Formaggio a pasta dura/semi dura, grasso (media)",397
-"Formaggio a pasta molle (media senza sgrassati)",325
-"Formaggio alle erbe glaronese",132
-"Formaggio Appenzeller, grasso",384
-"Formaggio Appenzeller, un quarto grasso",235
-"Formaggio blu (media)",360
-"Formaggio Brie, panna",342
-"Formaggio Brie, grasso",298
-"Formaggio Camembert, panna",355
-"Formaggio Camembert, grasso",297
-"Formaggio Camembert, semigrasso",188
-"Formaggio dei alpi di Berna",453
-"Formaggio Emmentaler grasso",408
-"Formaggio fresco granulato, naturale",100
-"Formaggio fresco, doppia panna",351
-"Formaggio fuso a fette, panna",327
-"Formaggio fuso a fette, latte intero",316
-"Formaggio fuso a fette, un quarto grasso",155
-"Formaggio fuso da spalmare, panna",316
-"Formaggio fuso da spalmare, latte intero",247
-"Formaggio fuso da spalmare, un quarto grasso",150
-"Formaggio grattugiato",406
-"Formaggio Gruyäre, grasso",396
-"Formaggio in salamoia (latte di mucca)",256
-"Formaggio in salamoia (latte di pecora e capra)",242
-"Formaggio Limburger/MÅnster",273
-"Formaggio maturato pasta molle, panna",347
-"Formaggio maturato pasta molle, grasso",296
-"Formaggio morbido, doppia panna",376
-"Formaggio Raclette",357
-"Formaggio Reblochon",307
-"Formaggio Roquefort",363
-"Formaggio Sbrinz",415
-"Formaggio St. Paulin",294
-"Formaggio Tàte de Moine",417
-"Formaggio Tilsiter latte crudo, grasso",376
-"Formaggio Tilsiter latte pastorizzato, grasso",351
-"Formaggio Vacherin Mont d'Or",279
-"Formentino, crudo",23
-"Fotzelschnitte non zuccherato",222
-"Fragola, cruda",40
-"Frollini",474
-"Frumento (grano tenero), chicco intero",327
-"Frutta (media), cotta (senza zucchero)",52
-"Frutta (media), cruda",57
-"Frutta (media), secca",280
-"Frutto della passione, crudo",92
-"Funghi (media), cotti (senza grassi)",34
-"Funghi (media), crudi",29
-"Funghi prataioli, conserva",19
-"Fungo porcino, crudo",39
-"Fungo porcino, stufato (senza grassi)",46
-"Galletta di riso integrale",390
-"Gallinaccio, crudo",24
-"Gallinaccio, stufato (senza grassi)",28
-"Gambero, cotto",46
-"Gambero, crudo",56
-"Gelato alla panna, gusto frutta",185
-"Germe di frumento",375
-"Germogli di soia, crudi",55
-"Ghiacciolo",88
-"Gorgonzola",357
-"Grano saraceno, sgusciato",346
-"Granotto, cotto",163
-"Grasso di cocco",894
-"Grasso di palma - Olio di palma",799
-"Gratin di verdura",58
-"GrittibÑnz (pane dolce)",329
-"Halibut, crudo",118
-"Hamburger (manzo), cotto in olio di colza HOLL",187
-"Hamburger di pesce",262
-"Hamburger di pollo",247
-"Hamburger, doppio",258
-"Hot Dog in pane bianco con ketchup e senape",216
-"Hummus",204
-"Impasto fermentato",199
-"Indivia riccia/scarola, cruda",16
-"Insalata al tonno (salamoia) con salsa aceto-olio",109
-"Insalata belga, cruda",14
-"Insalata Coleslaw, preparata",120
-"Insalata di bollito, preparata",201
-"Insalata di cervelat e formaggio, preparata",262
-"Insalata di cervelat, preparata",224
-"Insalata di pasta con salsa francese",128
-"Insalata di pasta con salsa italiana",130
-"Insalata di patate (salsa di maionese e yogurt)",80
-"Insalata di patate con salsa aceto-olio",96
-"Insalata russa, preparata",196
-"Involtino primavera, fritto",224
-"Kebab in piadina",123
-"Ketchup",117
-"Kiwi, crudo",54
-"Lampone, crudo",52
-"LandjÑger (salamino affumicato)",491
-"Lasagne di carne, preparata",141
-"Lasagne di verdura, preparata",133
-"Latte (media)",62
-"Latte condensato, non zuccherato",131
-"Latte condensato, zuccherato",339
-"Latte di pecora, crudo",105
-"Latte di capra",57
-"Latte di cocco",214
-"Latte intero, in polvere",480
-"Latte intero, pastorizzato",68
-"Latte intero, UHT",68
-"Latte macchiato, non zuccherato",47
-"Latte parzialmente scremato, pastorizzato",56
-"Latte parzialmente scremato, UHT",57
-"Latte scremato, in polvere",348
-"Latte scremato, UHT",33
-"Latte, semiscremato 1.5% gasso, UHT",46
-"Latticello",34
-"Lattuga cappuccio, cruda",14
-"Lattuga ghiaccio, cruda",16
-"Lattuga romana, cruda",16
-"Lattughe (media), crude",18
-"Leckerli di Basilea",412
-"Legumi (media), cotti (senza grassi)",127
-"Legumi (media), secchi",336
-"Lemon Curd",320
-"Lenticchia, decorticata, secca",334
-"Lenticchie, decorticate, cotte (senza grassi)",134
-"Lenticchie, intere, cotte (senza grassi)",115
-"Lenticchie, intere, secche",324
-"Lepre (media), cruda",115
-"Lievito di birra, secco",354
-"Lievito per pane, pressato",96
-"Limonata con aromi, zuccherata",38
-"Limone, crudo",23
-"Lingua (media: vitello e manzo), cruda",188
-"Lioner di pollo",205
-"Liquore all'uovo, 16.5 vol%",313
-"Lonza affumicata, cruda",155
-"Luccio, crudo",81
-"Luganiga",468
-"Lumaca alle nocciole, pasta lievitata",445
-"Maccheroni dell'alpigiano, preparati",180
-"Macedonia di frutta, non zuccherata, conserva",44
-"Macedonia di frutta, zuccherata, conserva",69
-"Maiale, bistecca di collo, crudo",203
-"Maiale, carne macinata, cruda",159
-"Maiale, collo, bistecca, cotta in padella (senza grassi)",255
-"Maiale, costine, crude",239
-"Maiale, cotoletta, cotta in padella (senza grassi)",240
-"Maiale, cotoletta, cruda",179
-"Maiale, fegato, crudo",131
-"Maiale, fesa francese, cruda",115
-"Maiale, fesa francese, fettina, cotta in padella (no grassi)",162
-"Maiale, filetto, cotto in padella (senza grassi)",153
-"Maiale, filetto, crudo",121
-"Maiale, geretto, brasato (senza grassi)",239
-"Maiale, geretto, crudo",173
-"Maiale, girello, crudo",127
-"Maiale, lonza, cruda",138
-"Maiale, sminuzzato, cotto in padella (senza grassi)",176
-"Maiale, sminuzzato, crudo",134
-"Maiale, spalla, arrostita al forno, ben cotta (no grassi)",221
-"Maiale, spalla, arrostita al forno, cottura media (no grassi)",202
-"Maiale, spalla, arrosto, crudo",181
-"Maiale, spezzatino, crudo",135
-"Maionese",742
-"Maionese, a valore energetico ridotto",327
-"Maionese, con olio di colza, fatta in casa",792
-"Mais dolce, conserva",100
-"Mais dolce, conserva, riscaldato",103
-"Mais dolce, crudo",93
-"Mais dolce, stufato",100
-"Mandarino, crudo",47
-"Mandorle",624
-"Mandorle, tostate e salate",649
-"Mandorle, tostate senza grasso e salate",637
-"Mango, crudo",62
-"Mango, secco",293
-"Manioca, radice, cotta",131
-"Manioca, radice, cruda",140
-"Manzo, bistecca, cruda",165
-"Manzo, carne macinata, cotta in padella (senza grassi)",211
-"Manzo, carne macinata, cruda",154
-"Manzo, collo, spezzatino (gulash), crudo",150
-"Manzo, entrecìte, cotta (cottura media, no grassi)",162
-"Manzo, entrecìte, crudo",133
-"Manzo, fegato, crudo",138
-"Manzo, fettina, cruda",111
-"Manzo, filetto, cotto in padella (cottura media, no grassi)",128
-"Manzo, filetto, crudo",105
-"Manzo, girello, crudo",106
-"Manzo, lingua, cruda",196
-"Manzo, per bollito, magro, bollito (senza grassi)",190
-"Manzo, per bollito, magro, crudo",132
-"Manzo, per bollito, misto, bollito (senza grassi)",276
-"Manzo, per bollito, misto, crudo",227
-"Manzo, petto, cotto (senza grassi)",254
-"Manzo, petto, crudo",188
-"Manzo, sminuzzato, crudo",102
-"Manzo, spalla, arrostita al forno (ben cotta, no grassi)",170
-"Manzo, spalla, arrostita al forno (cottura al sangue, no grassi)",135
-"Manzo, spalla, arrostita al forno (cottura media, no grassi)",146
-"Manzo, spalla, arrosto, crudo",117
-"Manzo, spezzatino, crudo",97
-"Margarina",724
-"Marmellata",246
-"Marmellata, valore energetico ridotto con edulcoranti",136
-"Marzapane",474
-"Mascarpone",435
-"Mela cotogna, cotta, sgocciolata (senza zucchero)",42
-"Mela cotogna, cruda",41
-"Mela, cruda",55
-"Melanzana, al vapore",23
-"Melanzana, cruda",23
-"Melanzane, stufate (senza grassi)",27
-"Melassa, sciroppo di melassa",274
-"Mele, cotte, sgocciolate (senza zucchero)",59
-"Mele, purea, non zuccherata, conserva",55
-"Mele, purea, zuccherata, conserva",89
-"Mele, sbucciate, secche",295
-"Melone, crudo",38
-"Menta, fresca",49
-"Meringa",401
-"Merluzzo bianco, crudo",76
-"Merluzzo bianco, filetto, al vapore (senza grassi)",72
-"Merluzzo nero, crudo",80
-"Miele (miele di fiori)",306
-"Miglio, grano sgusciato",360
-"Migliotto, cotto",144
-"Milanesini",431
-"Millefoglie",301
-"Minestrone",53
-"Mirabella (susina gialla), cotta, sgocciolata (no zucchero)",54
-"Mirabella (susina gialla), cruda",57
-"Mirtillo rosso (cranberry), crudo",40
-"Mirtillo, crudo",58
-"Mora, cruda",44
-"Mortadella",314
-"Mozzarella",256
-"Nasello, crudo",71
-"Nasi Goreng, preparato",125
-"Nettare d'arancia",44
-"Nocciole",661
-"Noce del Brasile",698
-"Noce di cocco",384
-"Noce di cocco, secca",681
-"Noci",709
-"Olio di arachidi",810
-"Olio di canapa",810
-"Olio di cartamo",810
-"Olio di colza",810
-"Olio di colza HOLL",810
-"Olio di germi di grano",810
-"Olio di girasole HO, raffinato",810
-"Olio di noce",810
-"Olio di semi di girasole",810
-"Olio di semi di lino, spremuto a freddo",810
-"Olio di semi di mais",810
-"Olio di semi di zucca",810
-"Olio di soia",810
-"Olio di vinaccioli",810
-"Olio d'oliva",810
-"Oliva, verde, in salamoia, sgocciolata",154
-"Olive farcite e fritte all'ascolana",328
-"Olive, nere",176
-"Omelette francese al formaggio, preparato",192
-"Omelette francese al lardo, preparato",175
-"Omelette francese al prosciutto, preparato",143
-"Omelette francese, preparato",151
-"Omelette tipo cràpes ai funghi prataiolo, preparato",125
-"Omelette tipo cràpes al formaggio, preparato",194
-"Omelette tipo cràpes al lardo, preparato",188
-"Omelette tipo cràpes al prosciutto, preparato",155
-"Omelette tipo cràpes al zucchero con cannella, preparato",177
-"Omelette tipo cràpes alla Nutella",258
-"Omelette tipo cràpes alle verdure, preparato",136
-"Omelette tipo cràpes, preparato",165
-"Orzo perlato, secco",347
-"Orzotto, cotto",135
-"Pancetta",467
-"Pancetta (speck)",400
-"Pancetta affumicata da cuocere",322
-"Pane (media)",264
-"Pane alle noci",332
-"Pane bianco",242
-"Pane bigio",234
-"Pane bigio (con sale iodato)",234
-"Pane contadino",241
-"Pane croccante (KnÑckebrot), integrale",332
-"Pane croccante (KnÑckebrot), integrale, con semi di lino",352
-"Pane croccante (KnÑckebrot), integrale, con semi di sesamo",360
-"Pane di segale (con lievito)",215
-"Pane di segale vallesano",227
-"Pane di tritello di segale",235
-"Pane integrale di grano",213
-"Pane parigino",255
-"Pane per toast al burro",316
-"Pane per toast all'olio vegetale",331
-"Pane semi-bianco",240
-"Pane semi-bianco (con sale iodato)",240
-"Pane ticinese",323
-"Panettone",354
-"Pangrattato",373
-"Panino",255
-"Panino al cioccolato",366
-"Panino al latte",309
-"Panino BÅrli (farina semibianca)",215
-"Panino di Sils (con sale iodato)",282
-"Panino michetta",245
-"Panna (media)",252
-"Panna acida, semigrassa",173
-"Panna acidula",336
-"Panna da caffä UHT",161
-"Panna intera, pastorizzata",334
-"Panna intera, UHT",335
-"Panna semigrassa, pastorizzata",274
-"Panna semigrassa, UHT",251
-"Pannocchiette di mais, sott'aceto",119
-"Panpepato",404
-"Panpepato ricoperto di cioccolato",444
-"Pantli",553
-"Papaia, matura, cruda",44
-"Pappa d'avena (con latte intero, no zucchero)",147
-"Pappa d'avena (con latte parz. scremato, no zucc.)",133
-"Paprica",358
-"Parmigiano",401
-"Passera di mare, cruda",86
-"Passera pianuzza, cruda",72
-"Passera pianuzza, filetto, al vapore (senza grassi)",69
-"Pasta al forno con prosciutto, preparato",163
-"Pasta all'uovo, cotta (acqua salata)",132
-"Pasta all'uovo, secca",365
-"Pasta di acciughe",272
-"Pasta di wasabi",308
-"Pasta fresca, con ripieno di carne, cotta",174
-"Pasta fresca, con ripieno spinaci/ricotta, cotta (no grassi)",178
-"Pasta fresca, con ripieno spinaci/ricotta, cruda",213
-"Pasta frolla (con burro), dolce, cotta al forno",530
-"Pasta frolla (con burro), dolce, cruda",424
-"Pasta frolla (con grasso vegetale), dolce, cotta al forno",523
-"Pasta frolla (con grasso vegetale), dolce, cruda",418
-"Pasta integrale, cotta (acqua salata)",152
-"Pasta integrale, secca",338
-"Pasta lievitata (con burro), dolce, cruda",311
-"Pasta lievitata (con grassa vegetale), dolce, cruda",304
-"Pasta per flammkuchen, cruda",221
-"Pasta per pizza (con grasso vegetale), cruda",229
-"Pasta per strudel, cruda",234
-"Pasta per torta (con burro), cruda",375
-"Pasta per torta (con grasso vegetale), cruda",370
-"Pasta per torta, integrale (con burro), cruda",372
-"Pasta per torta, integrale (con grasso vegetale), cruda",366
-"Pasta sfogli di quark (con burro), cruda",401
-"Pasta sfogli di quark (con grasso vegetale), cruda",396
-"Pasta sfoglia (con grasso vegetale), cruda",374
-"Pasta sfoglia, fatta in casa (al burro), cruda",364
-"Pasta sfoglia, fatta in casa (con grasso vegetale), cruda",358
-"Pasta, cotta (acqua salata)",158
-"Pasta, secca",353
-"Pasticcino alle pere",361
-"Pastinaca, cotta",58
-"Pastinaca, cruda",62
-"Patata dolce, al vapore",81
-"Patata dolce, cruda",81
-"Patate al gratin dauphinois, preparate",128
-"Patate al gratin savoyard, preparate",75
-"Patate fritte, al forno (non salate)",232
-"Patate fritte (olio di girasole HO), non salate",286
-"Patate fritte al forno, surgelate",127
-"Patate, pelate, al vapore",75
-"Patate, pelate, crude",76
-"Patatine a ridotto contenuto di grassi",468
-"Patä di campgagna",391
-"Peperone rosso, crudo",32
-"Peperone verde, crudo",20
-"Peperone, rosso, stufato",39
-"Peperone, verde, stufato",25
-"Pera, cruda",58
-"Pere, cotte, sgocciolate (senza zucchero)",61
-"Pere, non zuccherate, conserva",58
-"Pere, secche",289
-"Pere, zuccherate, conserva",92
-"Pesca noce, cruda",51
-"Pesca, cruda",48
-"Pesce (media), crudo",146
-"Pesce (media), filetto, al vapore (senza grassi)",146
-"Pesce Persico, crudo",79
-"Pesche, non zuccherate, conserva",39
-"Pesche, zuccherate, conserva",75
-"Pesto rosso",398
-"Pesto verde",430
-"Petit Beurre",431
-"Petit Beurre con cioccolato",482
-"Petit Beurre, integrale",426
-"Piccata di maiale, preparata",226
-"Piccata di melanzane, preparata",140
-"Piccata di sedano rapa, preparata",133
-"Piccata di vitello, preparata",217
-"Piccata di zucca, preparata",136
-"Piccata di zucchina, preparata",124
-"Pinoli",688
-"Piselli (conserva), riscaldati",89
-"Piselli e carote, (conserva), riscaldati",68
-"Piselli e carote, conserva",67
-"Piselli, conserva",87
-"Piselli, semi maturi, decorticati, cotti (no grassi)",137
-"Piselli, semi maturi, decorticati, secchi",331
-"Piselli, verdi, al vapore (senza sale)",100
-"Pisello, crudo",90
-"Pistacchi",594
-"Pizza al tonno, in forno",226
-"Pizza alle verdure, in forno",124
-"Pizza Calzone, in forno",224
-"Pizza con mascarpone e rucola, in forno",239
-"Pizza Hawaii, in forno",195
-"Pizza Margherita, in forno",238
-"Pizza Prosciutto e Funghi, in forno",204
-"Pizza Prosciutto, in forno",218
-"Pizza Quattro Formaggi, in forno",297
-"Polenta nera, preparata",111
-"Pollo, coscia con pelle, arrostita (senza grassi)",187
-"Pollo, coscia con pelle, cruda",163
-"Pollo, coscia senza pelle, cruda",135
-"Pollo, intero con pelle, arrostito (senza grassi)",193
-"Pollo, intero con pelle, crudo",168
-"Pollo, petto con pelle, crudo",152
-"Pollo, petto senza pelle, crudo",107
-"Pollo, petto, fettina o sminuzzato, cotto in padella (no grassi)",128
-"Polpettone, al forno",166
-"Pommes Chips",538
-"Pomodoro, crudo",21
-"Pomodoro, pelato, conserva",20
-"Pomodoro, secco",210
-"Pomodoro, stufato (senza grassi)",26
-"Pompelmo (bianco o rosso), crudo",30
-"Popcorn",367
-"Porro, crudo",30
-"Porro, stufato",31
-"Prezzemolo, fresco",58
-"Prosciutto arrotolato",181
-"Prosciutto arrotolato, cotto (senza grassi)",188
-"Prosciutto cotto di coscia",104
-"Prosciutto cotto di spalla",106
-"Prosciutto, crudo",229
-"Prugna, cruda",48
-"Prugna, secca",204
-"Prugne susine, crude",43
-"Prugne, cotte, sgocciolate (senza zuccheri)",48
-"Prugne, cotte, sgocciolate (senza zucchero)",43
-"Purea di patate (con acqua e burro)",80
-"Purea di patate (con latte intero e burro)",90
-"Purea di patate (con latte parzialmente scremato e burro)",88
-"Purea di patate (con panna e burro)",139
-"Quark, alla frutta",112
-"Quark, natuale, semigrasso",99
-"Quark, naturale, panna",183
-"Quark, naturale, magro",61
-"Quiche Lorraine, in forno (pasta per torta)",295
-"Quiche Lorraine, in forno (pasta sfoglia)",291
-"Quinoa, cotta (senza grassi)",120
-"Quinoa, cruda",368
-"Rabarbaro, crudo",12
-"Rafano, crudo",18
-"Ragó alla bolognese",96
-"Ragó d'agnello con salsa, preparato",112
-"Ragó di cavallo con salsa, preparato",88
-"Ragó di maiale con salsa, preparato",104
-"Ragó di manzo con salsa, preparato",85
-"Ragó di vitello con salsa, preparato",84
-"Ratatouille, preparato",46
-"Ravanelli, crudi",17
-"Ribes nero, crudo",58
-"Ribes rosso, crudo",45
-"Ricotta",122
-"Riso al latte (con latte intero, no zucchero)",143
-"Riso al latte (con latte parz. scremato, no zucc.)",129
-"Riso integrale, bollito (acqua salata)",126
-"Riso integrale, secco",350
-"Riso raffinato, bollito (acqua salata)",116
-"Riso raffinato, secco",352
-"Riso tipo parboiled, bollito (acqua salata)",120
-"Riso tipo parboiled, secco",356
-"Risotto ai funghi, cotto",128
-"Risotto senza formaggio, cotto",124
-"Ristretto, con cremino (non zuccherato)",47
-"Riz Casimir con pollo, preparato",125
-"Riz Casimir con vitello, preparato",123
-"Rognone di vitello, crudo",112
-"Rollmops",270
-"Rosmarino, fresco",62
-"Rîsti (patate pronte da arrostire)",150
-"Rucola, cruda",28
-"Salame",367
-"Salame (linea economica)",422
-"Salame affumicato",513
-"Salame di campagna",532
-"Salame svizzero, maiale e manzo",488
-"Salametto",343
-"Salatini tipo sils, secchi (bretzel, sticks)",361
-"Sale da cucina con iodo",0
-"Sale da cucina con iodo e fluoro",0
-"Sale da cucina senza iodo e fluoro",0
-"Sale, dell'Himalaya",0
-"Sale, marino, fiore di sale",0
-"Sale, sale marino, standard, bianco, no iodio e fluoro",0
-"Salmone d'allevamento, crudo",200
-"Salmone d'allevamento, filetto, al vapore (senza grassi)",180
-"Salmone selvatico, crudo",182
-"Salmone, affumicato",167
-"Salsa ai funghi, legata",132
-"Salsa al pomodoro",69
-"Salsa alla cacciatora",58
-"Salsa besciamella, fatta in casa",147
-"Salsa cocktail (maionese di colza, fatta in casa)",696
-"Salsa d'arrosto, chiara",44
-"Salsa d'arrosto, legata",53
-"Salsa di soia",56
-"Salsa olandese",212
-"Salsa per insalata (con olio di colza, fatta in casa)",430
-"Salsa per insalata aceto-olio (olio di colza, fatta in casa)",315
-"Salsa per insalata italiana (olio d'oliva, fatta in casa)",464
-"Salsa per insalata, francese",360
-"Salsa per insalata, italiana",309
-"Salsa per insalate con yogurt (senza olio)",67
-"Salsa tartara (maionese di colza, fatta in casa)",384
-"Salsiccette Minipic",460
-"Salsiccia bernese (di lingua)",333
-"Salsiccia bianca di carne di vitello (Weisswurst)",220
-"Salsiccia cruda (media)",456
-"Salsiccia cruda (maturazione troncata)",356
-"Salsiccia da arrostire di maiale",236
-"Salsiccia da arrostire di maiale, alla griglia (no grassi)",283
-"Salsiccia da cuocere (media)",297
-"Salsiccia da cuocere affumicata (media)",249
-"Salsiccia da cuocere non affumicata (media)",251
-"Salsiccia del birraio",291
-"Salsiccia del cacciatore",244
-"Salsiccia di fegato",253
-"Salsiccia di Lione",244
-"Salsiccia di maiale",268
-"Salsiccia di vitello",228
-"Salsiccia Saucisson",467
-"Salsiccia Saucisson, cotto (senza grassi)",511
-"Salsiccia viennese",242
-"Salsiccia viennese, cotta",220
-"Salsiccia vodese",358
-"Salsiz",415
-"Saltimbocca, cotta in olio di colza HOLL",216
-"Salvia, fresca",59
-"Samosa, cotta al forno",337
-"Samosa, fritta",367
-"Sandwich (baguette) al formaggio pasta semi dura",179
-"Sandwich (baguette) al prosciutto",131
-"Sandwich (baguette) al prosciutto crudo",165
-"Sandwich (baguette) con affettati",157
-"Sandwich (baguette) con carne secca",141
-"Sandwich (baguette) con FleischkÑse",220
-"Sandwich (baguette) con formaggio a pasta molle",183
-"Sandwich (baguette) con mozzarella",163
-"Sandwich (baguette) con salame",158
-"Sandwich (pane bigio) al formaggio pasta molle",174
-"Sandwich (pane bigio) al formaggio pasta semi dura",171
-"Sandwich (pane bigio) al prosciutto",125
-"Sandwich (pane bigio) al prosciutto crudo",158
-"Sandwich (pane bigio) con affettati",151
-"Sandwich (pane bigio) con carne secca",134
-"Sandwich (pane bigio) con FleischkÑse",210
-"Sandwich (pane bigio) con mozzarella",156
-"Sandwich (pane bigio) con salame",151
-"Sandwich con scaloppina e salsa cocktail",262
-"Sandwich con scaloppina e salsa tartara",242
-"Sanguinaccio",149
-"Sardina sott'olio, sgocciolata",215
-"Sardina, cruda",163
-"Saucisse aux choux",361
-"Scaloppina di capriolo, cruda",105
-"Scaloppina di vitello, cotta in olio di colza HOLL",185
-"Scampo, crudo",93
-"Schiumini",444
-"Schiumini al cioccolato",486
-"SchÅblig di campagna",524
-"SchÅblig di San Gallo",237
-"Sciroppo d'acero",358
-"Sciroppo di agave",293
-"Sciroppo non diluito",371
-"Sciroppo pronto (diluito 1:5.5)",55
-"Scorzonera, al vapore",57
-"Scorzonera, cruda",55
-"Sedano rapa, al vapore",29
-"Sedano rapa, crudo",28
-"Sedano verde, al vapore",15
-"Sedano, crudo",15
-"Selvaggina (media), cotto (senza grassi)",157
-"Selvaggina (media), cruda",115
-"Semi di chia",482
-"Semi di girasole",621
-"Semi di lino",533
-"Semi di sesamo, decorticati",660
-"Semi di sesamo, non decorticati",619
-"Semi di zucca",615
-"Semi e noci (media), no sale",612
-"Semola di grano duro, secca",353
-"Semolino di mais, cotta",79
-"Semolino di mais, secco",350
-"Semolino (con latte intero, no zucchero)",93
-"Semolino (con latte parz. scremato, no zucc.)",93
-"Senape",124
-"Sherry, 18.5 vol%",118
-"Sidro di mele, 4 vol%",32
-"Sidro di mele, 6.2 vol%",64
-"Siero di latte, dolce",24
-"Snack Flips di arachidi",507
-"Sogliola, cruda",85
-"Sorbetto, alla frutta",137
-"Sostituto dello yogurt (a base di soia, frutta/aromi)",82
-"Sostituto dello yogurt (a base di soia, naturale)",45
-"Spezzatino misto (manzo, vitello, maiale e pollame), crudo",118
-"Spezzatino misto, in padella (no grassi)",150
-"Spinaci, al vapore",28
-"Spinaci, crudi",23
-"Spugnole, crude",29
-"Spugnole, stufate ",34
-"Stelle alla cannella",505
-"Strutto",891
-"Succo d'arancia",51
-"Succo d'arancia, arricchito con vitamina C",55
-"Succo di carota",33
-"Succo di frutta diluito, no zuccheri (60% succo, 40% acqua)",31
-"Succo di frutta, no zucchero (media)",52
-"Succo di limone",30
-"Succo di mele",45
-"Succo di pere",51
-"Succo di pomodoro",16
-"Succo d'uva",62
-"Surimi",125
-"TaboulÇ, preparato (con Bulgur)",111
-"TaboulÇ, preparato (con Couscous)",130
-"Tacchino, (media: petto, scaloppina) o sminuzzato, crudo",108
-"Tacchino, (media) o sminuzzato, in padella (no grassi)",139
-"Taccole, al vapore",73
-"Taccole, crude",68
-"Tä freddo, zuccherato",30
-"Tä, non zuccherato",0
-"Terrina di cacciagione",242
-"Timo, fresco",52
-"Tofu, affumicato",164
-"Tofu, setoso (morbido), al naturale",54
-"Tofu, solido, al naturale",126
-"Tomino",284
-"Tonno, crudo",149
-"Tonno, in salamoia, sgocciolato",117
-"Tonno, sott'olio, sgocciolato",186
-"Topinambur, cotto (senza agguinta di sale)",52
-"Topinambur, crudo",54
-"Torta ai pomodori, in forno (pasta per torta)",158
-"Torta ai pomodori, in forno (pasta sfoglia)",155
-"Torta ai spinaci, in forno (pasta per torta)",173
-"Torta ai spinaci, in forno (pasta sfoglia)",170
-"Torta al burro",430
-"Torta al formaggio, in forno (pasta per torta)",303
-"Torta al formaggio, in forno (pasta sfoglia)",300
-"Torta al Kirsch di Zugo",335
-"Torta alle cipolle, in forno (pasta per torta)",171
-"Torta alle cipolle, in forno (pasta sfoglia)",169
-"Torta d'albicocca, fatta in casa, in forno (pasta sfoglia)",140
-"Torta d'albicocca, fatta in casa, in forno (pasta per torta)",138
-"Torta di carote",303
-"Torta di ciliegie, fatta in casa, in forno (pasta per torta)",156
-"Torta di ciliegie, fatta in casa, in forno (pasta sfoglia)",157
-"Torta di frutta (media)",166
-"Torta di frutta, in forno, pasta frolla dolce (media)",222
-"Torta di frutta, pasta per torta (media)",138
-"Torta di frutta, pasta sfoglia (media)",139
-"Torta di Linz",424
-"Torta di mele, fatta in casa, in forno (pasta per torta)",143
-"Torta di mele, fatta in casa, in forno (pasta sfoglia)",144
-"Torta di mora, fatta in casa (con pasta frolla dolce)",221
-"Torta di mora, fatta in casa, in forno (pasta per torta)",136
-"Torta di mora, fatta in casa, in forno (pasta sfoglia)",137
-"Torta di noci engadinese",481
-"Torta di pera, fatta in casa, in forno (pasta per torta)",145
-"Torta di pera, fatta in casa, in forno (pasta sfoglia)",146
-"Torta di prugna susina, fatta in casa, in forno (pasta per torta)",135
-"Torta di prugna susina, fatta in casa, in forno (pasta sfoglia)",136
-"Torta di prugna, fatta in casa, in forno (pasta per torta)",138
-"Torta di prugna, fatta in casa, in forno (pasta sfoglia)",139
-"Torta di rabarbaro, in forno (pasta soglia)",116
-"Torta di rabarbaro, fatta in casa, in forno (pasta per torta)",115
-"Torta di ribes, fatta in casa (avec pasta frolla dolce)",222
-"Torta di ribes, fatta in casa, in forno (pasta per torta)",136
-"Torta di ribes, fatta in casa, in forno (pasta sfoglia)",138
-"Torta foresta nera",248
-"Treccia al burro",325
-"Treccia al burro, integrale",272
-"Trota, cruda",127
-"Trota, intera, bollita (no grassi)",116
-"Tuorlo d'uovo, crudo",349
-"Uovo di gallina, intero, cotto, sodo",156
-"Uovo di gallina, intero, crudo",140
-"Uovo strapazzato alle erbe, preparato",141
-"Uovo strapazzato ai funghi champignon, preparato",127
-"Uovo strapazzato al formaggio, preparato",157
-"Uovo strapazzato al prosciutto, preparato",143
-"Uovo strapazzato, preparato",147
-"Uva spina, cruda",35
-"Uva, cruda",69
-"Uvetta, secca",321
-"Vacherin friborghese",370
-"Verdura (media), cruda",26
-"Verdura a foglia (media esclusa lattuga), al vapore (no grassi)",22
-"Verdura a foglia (media esclusa lattuga), cotta (no grassi)",21
-"Verdura a foglia (media esclusa lattuga), stufata (no grassi)",23
-"Verdura, tuberi e radici (media), al vapore",38
-"Verdura, tuberi e radici (media), cotta (no grassi)",34
-"Verdura, tuberi e radici (media), cruda",36
-"Verdura, tuberi e radici (media), stufata (no grassi)",33
-"Vermut, 15 vol%",139
-"Verza, cruda",31
-"Verza, stufata",30
-"Vinaigrette (con olio di colza)",255
-"Vino biancho diluito con acqua frizzante",36
-"Vino biancho diluito con limonata",55
-"Vino bianco 12.5 vol%",71
-"Vino bianco, 11 vol%",70
-"Vino di Porto, 18.5 vol%",152
-"Vino rosso, 12 vol%",69
-"Vino rosso, 13.5 vol%",76
-"Vino rosso, 9 vol%",54
-"Vino spumante (p.e.Champagne)",71
-"Vitello tonnato con guarnizione",172
-"Vitello tonnato senza guarnizione",198
-"Vitello, animella, cruda",99
-"Vitello, arrosto di spalla, al forno (no grassi)",163
-"Vitello, bistecca,  cotta in padella (no grassi)",144
-"Vitello, bistecca, cruda",113
-"Vitello, costoletta, cruda",161
-"Vitello, fegato, crudo",135
-"Vitello, filetto, crudo",119
-"Vitello, geretto, brasato (no grassi)",165
-"Vitello, geretto, crudo",122
-"Vitello, girello, cruda",104
-"Vitello, lingua, cruda",181
-"Vitello, macinato, crudo",104
-"Vitello, petto, cotto (no grassi)",234
-"Vitello, petto, crudo",204
-"Vitello, scaloppina, cotta in padella (no grassi)",128
-"Vitello, scaloppina, cruda",103
-"Vitello, sminuzzato, cotto in padella (no grassi)",123
-"Vitello, sminuzzato, crudo",98
-"Vitello, spalla, arrosto, crudo",124
-"Vitello, spezzatino, crudo",102
-"Yogurt alla frutta, magro con edulcoranti",49
-"Yogurt bifidus, naturale",66
-"Yogurt con aromi, magro con edulcoranti",47
-"Yogurt zuccherato (media)",105
-"Yogurt, al caffä",99
-"Yogurt, al caffä bio",95
-"Yogurt, al cioccolato",120
-"Yogurt, alla fragola",101
-"Yogurt, alla vaniglia",98
-"Yogurt, alle nocciole",119
-"Yogurt, naturale",66
-"Yogurt, naturale magro",42
-"Zampone",361
-"Zucca, al vapore",24
-"Zucca, cruda",23
-"Zucchero bianco",400
-"Zucchero bruno",390
-"Zucchero d'uva",399
-"Zucchina, al vapore",20
-"Zucchina, cruda",19
-"Zucchina, stufata (no grassi)",23
-"Zuppa al pomodoro",42
-"Zuppa di funghi",38
-"Zuppa d'orzo grigionese",42
-"Zuppa gulasch",67
-"Zwieback",411
-"Zwieback",428
+"Aperitivo al vino",186
+"Birra chiara",34
+"Brandy",230
+"Grappa",242
+"Liquori da dessert",314
+"Marsala all'uovo",150
+"Marsala tipico",203
+"Spumante",87
+"Vermouth dolce",139
+"Vermouth secco",121
+"Vino da tavola bianco",70
+"Vino da tavola rosso",75
+"Whisky",245
+"Agnello, sgrassato",159
+"Agnello cotto, sgrassato",270
+"Agnello, coscio crudo sgrassato",103
+"Agnello, coscio cotto al forno, sgrassato",165
+"Agnello, costoletta cruda sgrassata",106
+"Agnello, costoletta cotta al forno, sgrassata",153
+"Anatra domestica",159
+"Bovino (copertina, sottospalla, collo), sgrassato",133
+"Bovino, costata sgrassata",140
+"Bovino, fesa sgrassata",103
+"Bovino, filetto sgrassato",127
+"Bovino, geretto ant. e post., sgrassato",112
+"Bovino, girello sgrassato",110
+"Bovino, lombata sgrassata",134
+"Bovino, noce sgrassata",106
+"Bovino (pancia, biancostato, punta di petto), sgrassato",171
+"Bovino, scamone sgrassato",119
+"Bovino, sottofesa sgrassata",111
+"Bovino (spalla, muscolo, girello, fesone), sgrassato",108
+"Capretto",122
+"Cavallo",143
+"Cervo, sgrassato",91
+"Coniglio intero, crudo",118
+"Coniglio intero, cotto",166
+"Coniglio intero, surgelato",116
+"Coniglio, coscio",137
+"Daino",95
+"Fagiano",144
+"Faraona, coscio con pelle, crudo",133
+"Faraona, petto senza pelle, cotto allo spiedo, sgrassato",146
+"Faraona, petto senza pelle, crudo",121
+"Gallina",194
+"Lumaca",67
+"Maiale magro, bistecca cruda",157
+"Maiale magro, bistecca saltata in padella",247
+"Maiale magro, coscio",110
+"Maiale magro, lombo",146
+"Maiale magro, spalla",133
+"Maiale pesante, coscio",128
+"Maiale pesante, lombo",172
+"Maiale pesante, spalla",156
+"Oca",373
+"Piccione giovane",138
+"Pollo intero con pelle, crudo",171
+"Pollo intero con pelle, arrosto di rosticceria",246
+"Pollo al forno con pelle, sgrassato",200
+"Pollo intero senza pelle, crudo",110
+"Pollo intero senza pelle, arrosto di rosticceria",206
+"Pollo al forno senza pelle, sgrassato",160
+"Pollo, ala con pelle, cruda",196
+"Pollo, ala con pelle, cotta al forno, sgrassata",283
+"Pollo, fuso con pelle, crudo",125
+"Pollo, fuso con pelle, cotto al forno, sgrassato",201
+"Pollo, fuso senza pelle, crudo",107
+"Pollo, fuso senza pelle, cotto al forno, sgrassato",175
+"Pollo, petto crudo",100
+"Pollo, petto saltato in padella",129
+"Pollo, sovracoscio con pelle, crudo",196
+"Pollo, sovracoscio senza pelle, crudo",132
+"Quaglia",161
+"Struzzo crudo, sgrassato",92
+"Struzzo, cotto al forno, sgrassato",101
+"Tacchino intero con pelle, crudo",135
+"Tacchino intero senza pelle, crudo",109
+"Tacchino, fesa cruda",107
+"Tacchino, fesa saltata in padella",131
+"Tacchino, fuso con pelle, crudo",126
+"Tacchino, fuso con pelle, cotto al forno, sgrassato",191
+"Tacchino, fuso senza pelle, crudo",113
+"Tacchino, fuso senza pelle, cotto al forno, sgrassato",190
+"Tacchino, sovracoscio senza pelle, crudo",120
+"Tacchino, sovracoscio senza pelle, cotto al forno, sgrassato",182
+"Vitello, filetto crudo",107
+"Vitello, filetto saltato in padella",258
+"Biscotti alla soia",366
+"Biscotti frollini",429
+"Biscotti integrali",425
+"Biscotti integrali con soia",456
+"Biscotti per l'infanzia",416
+"Biscotti secchi",416
+"Biscotti wafers",454
+"Cornetti",411
+"Cornflakes",361
+"Crackers al formaggio",502
+"Crackers alla soia",412
+"Crackers salati",428
+"Cracotte",348
+"Croissants",358
+"Crusca di frumento",206
+"Farina d'avena",385
+"Farina d'orzo",357
+"Farina di grano duro",314
+"Farina di grano integrale",319
+"Farina di grano tipo 0",341
+"Farina di grano tipo 00",340
+"Farina di mais",362
+"Farina di riso",360
+"Farina di segale",311
+"Farina di soia",446
+"Farro",335
+"Fette biscottate",408
+"Fette biscottate integrali",379
+"Fiocchi d'avena",373
+"Grano duro",312
+"Grano tenero",317
+"Germe di grano",408
+"Grano saraceno",314
+"Grissini",431
+"Mais",353
+"Mais dolce in scatola, sgocciolato",98
+"Amido di mais",327
+"Miglio",356
+"Miglio decorticato",360
+"Muesli",364
+"Orzo perlato",319
+"Pane al malto",267
+"Pane azzimo",377
+"Pane di segale",219
+"Pane tipo 0",275
+"Pane tipo 00",289
+"Pane tipo 1",265
+"Pane integrale",224
+"Pane (rosetta)",269
+"Pangrattato",351
+"Panini al latte",295
+"Panini all'olio",299
+"Pasta all'uovo secca, cruda",366
+"Pasta all'uovo secca, cotta senza sale",122
+"Pasta di semola, cruda",353
+"Pasta di semola, cotta senza sale, scolata",137
+"Pizza bianca",302
+"Pizza al pomodoro",243
+"Pizza pomodoro e mozzarella",271
+"Riso brillato, crudo",332
+"Riso brillato, cotto senza sale",100
+"Riso integrale, crudo",337
+"Riso integrale, cotto senza sale",111
+"Riso parboiled, crudo",337
+"Riso parboiled, cotto senza sale",97
+"Riso soffiato (prima colazione)",352
+"Semola",339
+"Tapioca (farina di manioca)",360
+"Tortellini freschi",300
+"Tortellini secchi",376
+"Baba' al rhum",229
+"Barretta cocco, ricoperta di cioccolato",472
+"Canditi (ciliegie, frutta, frutti ghiacciati)",283
+"Cannoli alla crema",368
+"Caramelle dure",344
+"Caramelle tipo mou",430
+"Cioccolato al latte",545
+"Cioccolato al latte con nocciole",543
+"Cioccolato fondente",515
+"Crema nocciole e cacao",537
+"Crostata con crema al cacao",492
+"Crostata con marmellata",339
+"Crostata con marmellata di albicocche (industr.)",421
+"Gelato - biscotto con crema, zabaione e cioccolato",271
+"Gelato - cacao, in vaschetta",173
+"Gelato - caffe', in vaschetta",245
+"Gelato - cono panna e cioccolato",291
+"Gelato - cono panna, scaglie cioccolato e noccioline",326
+"Gelato - fior di latte, in vaschetta",218
+"Gelato - fior di latte, ricoperto sorbetto fragola",101
+"Ghiacciolo all'arancio",137
+"Gelato - nocciola, in vaschetta",183
+"Gelato - panna ricoperta cioccolato fondente",316
+"Gelato - panna, in vaschetta",189
+"Gelato - sorbetto al limone, in vaschetta",132
+"Gelato - stracciatella, in vaschetta",193
+"Gelato - vaniglia, in vaschetta",167
+"Gomme da masticare, lastrine/confetti",263
+"Lenti colorate ripiene di cioccolato",456
+"Marmellate (normali e frutta viva)",222
+"Merendine con marmellata",358
+"Merendine farcite al latte",413
+"Merendine tipo brioche",438
+"Merendine tipo pan di spagna",383
+"Merendine tipo pasta frolla",444
+"Miele",304
+"Panettone",333
+"Pasta di mandorle",455
+"Savoiardi",391
+"Torrone alla mandorla",479
+"Torta margherita",367
+"Wafer ricoperto di cioccolato",498
+"Zucchero (saccarosio)",392
+"Brie",319
+"Burrini",527
+"Butirro calabro",440
+"Caciocavallo",439
+"Cacioricotta di capra",178
+"Caciotta mista",384
+"Caciotta romana di pecora",364
+"Caciotta toscana",368
+"Caciottina fresca",263
+"Caciottina mista",370
+"Caciottina vaccina",324
+"Camembert",297
+"Cheddar",381
+"Crescenza",281
+"Dolce verde",266
+"Emmenthal",403
+"Feta",250
+"Fiocchi di formaggio magro",115
+"Fior di latte",268
+"Fontina",343
+"Formaggino",309
+"Formaggino light",239
+"Formaggio cremoso spalmabile",313
+"Formaggio cremoso spalmabile light",179
+"Formaggio molle da tavola",377
+"Gorgonzola",324
+"Grana",392
+"Groviera",389
+"Italico",316
+"Latteria (formaggio Veneto)",456
+"Mascarpone",455
+"Mozzarella di bufala",288
+"Mozzarella di vacca",253
+"Parmigiano",387
+"Pecorino",392
+"Pecorino romano",409
+"Pecorino siciliano",427
+"Provolone",374
+"Ricotta di bufala",212
+"Ricotta di pecora",157
+"Ricotta di vacca",146
+"Robiola",338
+"Scamorza",334
+"Stracchino",300
+"Taleggio",315
+"Cervello di bovino",157
+"Coratella d'agnello (cuore, fegato, milza, reni)",109
+"Coratella di vitello (cuore, fegato, milza, reni)",100
+"Cuore di bovino",123
+"Cuore di equino",146
+"Cuore di ovino",134
+"Cuore di suino",159
+"Fegato di bovino",142
+"Fegato di equino",145
+"Fegato di ovino",135
+"Fegato di suino, crudo",140
+"Lingua di bovino, cruda",232
+"Milza di bovino",107
+"Polmone di bovino",75
+"Rene di bovino",118
+"Trippa di bovino",108
+"Albicocche",28
+"Albicocche disidratate",349
+"Albicocche sciroppate",63
+"Albicocche secche",274
+"Amarene",42
+"Ananas",40
+"Ananas sciroppato",64
+"Anona",68
+"Arachidi tostate",598
+"Arance",34
+"Succo d'arancia",33
+"Avocado",231
+"Babaco",21
+"Banane",65
+"Carrube",207
+"Castagne",165
+"Castagne arrostite",193
+"Castagne bollite",120
+"Castagne secche",287
+"Ciliege",38
+"Ciliege candite",251
+"Clementine",37
+"Cocco",364
+"Cocco essiccato",604
+"Cocktail di frutta sciroppata",57
+"Cocomero",16
+"Datteri secchi",253
+"Feijoa",46
+"Fichi",47
+"Fichi canditi",292
+"Fichi secchi al forno e mandorlati",277
+"Fichi secchi",256
+"Fichi d'India",53
+"Fragole",27
+"Guava",20
+"Kiwi",44
+"Lamponi",34
+"Limoni",11
+"Succo di limone",6
+"Litchi",70
+"Loti (Kaki)",65
+"Mandaranci",53
+"Mandarini",72
+"Mandorle dolci, secche",603
+"Mango",53
+"Melagrane",63
+"Mele cotogne",26
+"Mele fresche (Annurche)",40
+"Mele fresche (Deliziose)",43
+"Mele fresche (Golden)",43
+"Mele fresche (Granny Smith)",38
+"Mele fresche (Imperatore)",44
+"Mele fresche (Renette)",40
+"Mele fresche con buccia",38
+"Mele fresche senza buccia",53
+"Mele disidratate",369
+"Melone d'estate",33
+"Melone d'inverno",22
+"Mirtilli",25
+"Mora di rovo",36
+"Nespole",28
+"Nocciole secche",655
+"Noci",582
+"Noci pecan",705
+"Noci secche",689
+"Olive da tavola conservate",268
+"Olive nere",235
+"Olive verdi",142
+"Olive verdi in salamoia",108
+"Papaia",28
+"Passiflora",36
+"Pere fresche senza buccia",35
+"Pere candite",295
+"Pesche senza buccia",27
+"Pesche disidratate",357
+"Pesche sciroppate",55
+"Pesche secche",275
+"Pinoli",595
+"Pistacchi",608
+"Pompelmo",26
+"Prugne",42
+"Prugne gialle",30
+"Prugne rosse",42
+"Prugne secche",220
+"Ribes",28
+"Succo di frutta (albicocca e pera)",56
+"Uva",61
+"Uva secca",283
+"Succo d'uva in cartone",66
+"Big-burger (pane, doppio bovino, ketchup, verdure)",221
+"Cheese-burger (pane, bovino, ketchup, verdure, formaggio)",255
+"Hamburger (pane, bovino, ketchup, verdure)",242
+"Crema di latte (12% lipidi)",140
+"Latte di bufala",114
+"Latte di capra",76
+"Latte di pecora",103
+"Latte vaccino UHT intero",63
+"Latte vaccino UHT parzialmente scremato",46
+"Latte vaccino in polvere, intero",484
+"Latte vaccino in polvere, parzialmente scremato",418
+"Latte vaccino in polvere, scremato",351
+"Latte vaccino pastorizzato, intero",64
+"Latte vaccino pastorizzato, parzialmente scremato",46
+"Latte vaccino pastorizzato, scremato",36
+"Latte vaccino condensato, zuccherato",328
+"Latte vaccino evaporato, non zuccherato",134
+"Panna o crema di latte",337
+"Yogurt caprino",60
+"Yogurt da latte intero",66
+"Yogurt da latte parzialmente scremato",43
+"Yogurt da latte scremato",36
+"Yogurt greco da latte intero",115
+"Ceci in scatola, scolati",100
+"Ceci secchi, crudi",316
+"Ceci secchi, cotti senza sale, scolati",120
+"Fagioli, crudi",291
+"Fagioli Borlotti freschi, crudi",133
+"Fagioli Borlotti freschi, cotti senza sale, scolati",69
+"Fagioli Borlotti in scatola, scolati",91
+"Fagioli Borlotti secchi, crudi",291
+"Fagioli Borlotti secchi, cotti senza sale, scolati",93
+"Fagioli Cannellini in scatola, scolati",76
+"Fagioli Cannellini secchi, crudi",279
+"Fagioli Cannellini secchi, cotti senza sale, scolati",91
+"Fagioli, cotti senza sale, scolati",102
+"Fagioli dall'occhio, secchi",293
+"Fagiolini freschi, crudi",18
+"Fagiolini surgelati, cotti senza sale, scolati",25
+"Fave fresche, crude",41
+"Fave fresche, saltate in padella",49
+"Fave secche, crude",224
+"Fave secche sgusciate, crude",341
+"Lenticchie in scatola, scolate",82
+"Lenticchie secche, crudi",291
+"Lenticchie secche, cotte senza sale, scolate",92
+"Lupini ammollati",114
+"Piselli freschi, crudi",52
+"Piselli freschi, saltati in padella",91
+"Piselli in scatola, scolati",68
+"Piselli secchi",286
+"Piselli surgelati",48
+"Soia secca",407
+"Soia (isolato proteico)",369
+"Burro",758
+"Lardo",891
+"Margarina (100% vegetale)",760
+"Margarina (2/3 animali, 1/3 vegetali)",760
+"Olii vegetali (oliva, soia, mais ecc.)",899
+"Olio di arachide",899
+"Olio di cocco",899
+"Olio di colza",899
+"Olio di fegato di merluzzo",899
+"Olio di germe di grano",899
+"Olio di girasole",899
+"Olio di mais",899
+"Olio di mandorle dolci",899
+"Olio di oliva",899
+"Olio di oliva extra vergine",899
+"Olio di palma",899
+"Olio di sesamo",899
+"Olio di soia",899
+"Olio di vinacciolo",899
+"Sego di bue",872
+"Strutto (Sugna)",899
+"Acciuga (Alice), fresca",96
+"Acciuga (Alice), sott'olio",206
+"Acciuga (Alice), sotto sale",137
+"Anguilla d'allevamento, filetti",319
+"Anguilla di fiume",261
+"Anguilla di mare",237
+"Anguilla marinata",259
+"Aragosta fresca",85
+"Aringa fresca",216
+"Aringa affumicata",194
+"Aringa marinata",199
+"Aringa sotto sale",218
+"Calamaro fresco",68
+"Calamaro surgelato",68
+"Capitone",247
+"Carpa",140
+"Cefalo (Muggine)",127
+"Cefalo (Bottarga)",373
+"Cernia surgelata",88
+"Coregone",135
+"Cozza (Mitilo)",84
+"Dentice fresco",101
+"Dentice surgelato",103
+"Gamberi freschi",71
+"Gamberi sgusciati, surgelati",85
+"Granchio in scatola",81
+"Halibut",114
+"Lattarini",145
+"Luccio",81
+"Merluzzo (Mel? o Pesce Molo), fresco",72
+"Merluzzo (Mel?), stoccafisso secco",356
+"Merluzzo (Mel?), stoccafisso, ammollato",92
+"Merluzzo (Nasello), crudo",71
+"Merluzzo (Nasello), baccal? ammollato",95
+"Merluzzo (Nasello), baccal? secco",131
+"Merluzzo (Nasello), bastoncini surgelati",191
+"Merluzzo (Nasello), surgelato",75
+"Merluzzo (Nasello) surgelato, cotto microonde",107
+"Merluzzo (Nasello) surgelato, cotto sgrassato",92
+"Merluzzo (Nasello), surgelato, filetti",68
+"Orata fresca d'allevamento, filetti",159
+"Orata fresca, filetti",121
+"Orata surgelata",94
+"Ostrica",69
+"Palombo",80
+"Pesce gatto",92
+"Polpo",57
+"Razza",68
+"Rombo",81
+"Salmone fresco",185
+"Salmone affumicato",147
+"Salmone in salamoia",192
+"Sarda fresca",129
+"Seppia",72
+"Sgombro (Maccarello), fresco",170
+"Sgombro (Maccarello) in salamoia",177
+"Sogliola, fresca",83
+"Sogliola surgelata",81
+"Spigola",82
+"Spigola d'allevamento, filetti",149
+"Caviale (Uova di Storione)",255
+"Suro (Sugarello)",104
+"Tinca",79
+"Tonno fresco",159
+"Tonno in salamoia, sgocciolato",103
+"Tonno sott'olio, sgocciolato",192
+"Triglia",123
+"Trota",86
+"Trota iridea d'allevamento, filetti",118
+"Trota surgelata",92
+"Trota surgelata, cotta microonde",136
+"Trota surgelata, cotta sgrassata",105
+"Vongola",72
+"Bresaola",151
+"Bresaola della Valtellina IGP",151
+"Capocollo",450
+"Carne bovina in gelatina, in scatola",67
+"Carne bovina pressata, in scatola",141
+"Ciccioli",636
+"Coppa",401
+"Coppa Parma",398
+"Corned beef, in scatola",219
+"Cotechino Modena IGP, cotto",253
+"Cotechino, precotto confezionato",450
+"Cotechino precotto, cotto e sgrassato",307
+"Mortadella",317
+"Mortadella Bologna IGP",288
+"Mortadella di bovino e suino",388
+"Pancetta arrotolata",530
+"Pancetta magretta",315
+"Pancetta tesa",337
+"Pat? di coniglio",346
+"Pat? di fegato",341
+"Pat? di pollo",289
+"Pat? di prosciutto",358
+"Prosciutto cotto",138
+"Prosciutto cotto, magro",107
+"Prosciutto cotto (alta qualit?)",182
+"Prosciutto cotto magro (alta qualit?)",127
+"Prosciutto cotto scelto",155
+"Prosciutto cotto scelto, magro",115
+"Prosciutto crudo di Modena DOP",309
+"Prosciutto crudo Modena DOP, magro",201
+"Prosciutto crudo San Daniele DOP",271
+"Prosciutto crudo S. Daniele DOP, magro",176
+"Prosciutto crudo di Parma DOP",269
+"Prosciutto crudo Parma DOP, magro",176
+"Prosciutto crudo Nazionale",235
+"Prosciutto crudo Nazionale, magro",169
+"Prosciutto crudo di montagna",303
+"Prosciutto crudo, disossato",224
+"Prosciutto crudo disossato, magro",159
+"Prosciutto crudo, gambuccio",306
+"Salame Brianza",384
+"Salame Fabriano",420
+"Salame Felino",375
+"Salame Milano",384
+"Salame Napoli",378
+"Salami Italiani alla Cacciatora DOP",411
+"Salame nostrano",370
+"Salame ungherese",420
+"Salsiccia di fegato",424
+"Salsiccia di suino, fresca cruda",304
+"Salsiccia di suino, cotta in padella sgrassata",324
+"Salsiccia di suino, secca",514
+"Speck",303
+"Speck dell'Alto Adige IGP",300
+"Wurstel di puro suino, crudo",250
+"Wurstel di puro suino, cotto",259
+"Zampone, precotto confezionato",361
+"Zampone precotto, cotto e sgrassato",319
+"Zampone Modena IGP, cotto",262
+"Uova d'anatra, intero",190
+"Uova di gallina, albume",43
+"Uova di gallina, intero",128
+"Uova di gallina, intero congelato",128
+"Uova di gallina, cotte (alla coque o sodo)",128
+"Uova di gallina, intero in polvere",537
+"Uova di gallina, tuorlo",325
+"Uova di gallina, tuorlo congelato",325
+"Uova d'oca, intero",189
+"Uova di tacchina, intero",147
+"Aranciata",38
+"Bevanda tipo cola",39
+"Cacao amaro in polvere",355
+"Caff? tostato",287
+"Dado da brodo",250
+"Farina di castagne",343
+"Fecola di patate",346
+"Lievito di birra compresso",56
+"Maionese",655
+"Minestra in scatola, crema di asparagi",26
+"Minestra in scatola, crema di cipolle",26
+"Minestra in scatola, crema di funghi",56
+"Minestra in scatola, crema di pollo",58
+"Minestra in scatola, crema di pomodori",36
+"Minestrone liofilizzato",298
+"Pappa reale",147
+"Pop corn",378
+"Salsa (Ketchup)",98
+"Latte di soia",32
+"Salsa di soia",66
+"Yogurt di soia",72
+"T? (foglie)",108
+"Aglio",41
+"Agretti",17
+"Agretti, cotti senza sale",45
+"Asparagi di bosco",35
+"Asparagi di campo, crudi",29
+"Asparagi di campo, cotti senza sale",41
+"Asparagi di serra",24
+"Barbabietole rosse, crude",19
+"Basilico",39
+"Bieta, cruda",17
+"Bieta, cotta senza sale",36
+"Broccoletti di rapa, crudi",22
+"Broccoletti di rapa, cotti senza sale",32
+"Broccolo a testa, crudo",27
+"Broccolo a testa, cotto senza sale",39
+"Carciofi, crudi",22
+"Carciofi, cotti senza sale",82
+"Carciofi surgelati, crudi",22
+"Cardi, crudi",10
+"Cardi, cotti senza sale",73
+"Carote, crude",35
+"Carote, cotte senza sale",84
+"Cavolfiore, crudo",25
+"Cavolfiore, cotto senza sale",40
+"Cavolini di Bruxelles, crudi",37
+"Cavolini di Bruxelles, cotti senza sale",59
+"Cavolo broccolo verde ramoso, crudo",24
+"Cavolo broccolo, cotto senza sale",105
+"Cavolo cappuccio, rosso",20
+"Cavolo cappuccio verde, crudo",19
+"Cavolo cappuccio verde, cotto senza sale",21
+"Cetrioli",14
+"Cicoria da taglio, coltivata",12
+"Cicoria di campo, cruda",10
+"Cicoria di campo, cotta senza sale",10
+"Indivia belga (Witloof)",18
+"Cipolle, crude",26
+"Cipolle, cotte senza sale",109
+"Cipolline, crude",38
+"Cipolline, cotte senza sale",101
+"Finocchi, crudi",9
+"Finocchi, cotti senza sale",25
+"Fiori di zucca",12
+"Foglie di rapa",22
+"Funghi coltivati (Pleurotes), crudi",28
+"Funghi (Pleurotes), saltati in padella",58
+"Funghi coltivati (Prataioli), crudi",20
+"Funghi (Prataioli), saltati in padella",27
+"Funghi porcini",26
+"Germogli di soia",49
+"Indivia",16
+"Lattuga",19
+"Lattuga a cappuccio",19
+"Lattuga da taglio",14
+"Melanzane, crude",18
+"Melanzane, saltate in padella",41
+"Menta",41
+"Patate, crude",85
+"Patate novelle, crude",70
+"Patate, cotte arrosto",148
+"Patate, cotte al microonde",85
+"Patate, cotte con buccia, senza sale",85
+"Patate, cotte senza buccia n? sale",71
+"Patate, cotte fritte",188
+"Patatine fritte in busta",507
+"Peperoncini piccanti",26
+"Peperoni, crudi",22
+"Peperoni, saltati in padella",125
+"Peperoni (rossi e gialli)",31
+"Peperoni, verdi",27
+"Pomodori (San Marzano)",17
+"Pomodori da insalata",17
+"Pomodori, maturi",19
+"Pomodori, conserva",96
+"Passata di pomodoro",18
+"Pomodori pelati in scatola (con succo)",21
+"Porri, crudi",29
+"Porri, cotti senza sale",33
+"Prezzemolo",20
+"Radicchio, rosso",13
+"Radicchio, verde",14
+"Rape, crude",18
+"Rape, cotte senza sale",36
+"Ravanelli",11
+"Rosmarino",96
+"Rughetta (Rucola)",28
+"Salvia",116
+"Sedano, crudo",20
+"Sedano rapa",23
+"Spinaci, crudi",31
+"Spinaci, cotti senza sale",63
+"Spinaci surgelati",23
+"Tarassaco (Dente di leone)",36
+"Tartufo nero",31
+"Vegetali misti surgelati",67
+"Zucca gialla",18
+"Zucchine, crude",11
+"Zucchine chiare, crude",11
+"Zucchine, cotte senza sale",27
+"Zucchine scure, crude",11
